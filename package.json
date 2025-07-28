@@ -1,0 +1,16 @@
+{
+  "name": "newassignment6",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
