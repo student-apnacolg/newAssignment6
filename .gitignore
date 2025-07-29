@@ -1,10 +1,9 @@
 # Dependencies
 node_modules/
 
-# Logs
-logs/
-*.log
-npm-debug.log*
+# logs/
+# *.log
+# npm-debug.log*
 
 # OS or editor files
 .DS_Store
